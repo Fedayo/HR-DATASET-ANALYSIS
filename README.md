@@ -6,11 +6,11 @@ This project analyzes employee attrition data to understand the factors that con
 ## 🎯 Objectives
 The main goals of this project are:
 - To identify trends and patterns in employee attrition.
-- To provide actionable insights for HR managers to reduce turnover.
+- To provide actionable insights for HR to reduce turnover.
 - To gain hands-on experience with Power BI for data visualization.
 
 ## 🗂️ Dataset Information
-The dataset (`HR_Attrition_Dataset.csv` contains the following columns:
+The dataset (`HR_Dataset.xlsx`) contains the following columns:
 - `EmployeeID`: Unique identifier for each employee.
 - `Attrition`: Indicates whether an employee left (Yes/No).
 - `Department`: Department where the employee worked (e.g., Sales, HR, IT).
@@ -23,14 +23,77 @@ The dataset (`HR_Attrition_Dataset.csv` contains the following columns:
 ## 💻 Data Cleaning and Preparation
 I performed the following data cleaning steps:
 1. Removed duplicates and null values.
-2. Standardized age brackets and education levels.
-3. Created calculated columns for metrics like `Current Employee Count` and `Attrition Rate` using DAX in Power BI.
+2. Standardized age brackets
+3. Created calculated columns and measures for metrics like `Current Employee Count`,`average age`,`job satisfaction rating` and `Attrition Rate` using DAX in Power BI.
 
-### **SQL Script for Data Preparation**
-Here's a snippet of the SQL script used for initial data cleaning:
+## 📈 Dashboard Insights
+The Power BI dashboard provides the following insights:
+### 1. Overall Metrics
+- Total Employees:1470
+- Current Employees: 1233
+- Total Attrition: 237
+- Average Age: 37 years
+- Attrition Rate: 16%
 
-```sql
--- Removing duplicates and handling missing values
-SELECT DISTINCT *
-FROM hr_data
-WHERE attrition IS NOT NULL;
+### 2. Attrition by Department
+- The analysis shows the R&D department has the highest attrition rate, accounting for 56.12% of total attrition.
+
+### 3. Attrition by Educational Field
+- Life sciences have the highest attrition rate
+
+### 4. Attrition count by gender
+- The male gender has more attrition count by 63.29%
+
+### 5. Attrition count by age band
+- Age bracket 25-34 has the highest number of attrition,this could be as a result of career advancement, competitive job market, job fit and cultural misalignment,etc
+
+## 🛠️ Tools Used
+ - Power BI: For data extraction,initial exploration,cleaning,visualization and dashboard creation.
+
+## 📈Key Learnings
+ - Gained experience in using Power BI for interactive data visualization.
+ - Learned to identify key drivers of employee attrition.
+
+## Recommendations
+1. Enhance Career Development Opportunities
+- Provide clear career progression paths: Outline promotional opportunities and skill requirements for employees in this age group.
+- Offer mentorship programs: Connect younger employees with experienced mentors to help guide their career growth within the organization.
+- Invest in professional development: Encourage participation in training, certifications, and workshops to help employees advance their skills.
+
+2. Improve Compensation and Benefits
+ -  Conduct a market compensation analysis: Ensure salaries and benefits are competitive with industry standards, especially for roles commonly filled by 25-34-year-olds.
+ -  Introduce performance-based incentives: Offer bonuses, stock options, or other financial incentives tied to individual and team performance.
+
+3. Focus on Work-Life Balance
+ -  Implement flexible work policies: Allow for remote work options, flexible hours, and compressed work weeks to accommodate employees' needs.
+ -  Enhance wellness programs: Offer support for physical and mental health, such as gym memberships, wellness stipends, or mental health days.
+
+4. Strengthen Employee Engagement and Retention Programs
+ -  Conduct regular stay interviews: Ask current employees why they choose to stay and what might make them consider leaving. Use the feedback to address concerns before they lead to turnover.
+ -  Improve onboarding processes: Ensure that new employees, particularly those in this age group, feel integrated into the company culture and understand their roles and growth potential from the start.
+
+5. Foster a Positive Work Culture
+ -  Promote a culture of recognition: Celebrate achievements and contributions, and make employees feel valued for their work.
+ -  Encourage feedback and open communication: Create an environment where employees feel comfortable sharing their concerns or ideas for improvement.
+   
+6.  Improve Leadership Support and Development
+-   Provide Leadership Training: Offer targeted leadership and management training programs for Sales Executive to enhance their skills in people management, strategic decision-making, and conflict             resolution.
+ -  Encourage Mentorship and Coaching: Establish a mentoring program where senior executives can guide Research Directors, providing support and helping them navigate challenges in their roles.
+
+7. Address Workload and Role Clarity
+-  Review Workload and Responsibilities: Sales Executive may be experiencing burnout or dissatisfaction due to heavy workloads or unclear role expectations. Conduct a workload analysis and consider            delegating tasks or hiring additional support staff.
+-  Clarify Job Expectations and Objectives: Ensure that Sales Executive have clear performance objectives and understand their roles in the organization's strategic goals. This can help reduce role            ambiguity and improve job satisfaction.
+
+8. Enhance Recognition and Reward Programs
+-  Increase Recognition for Leadership Achievements: Sales Executive might feel undervalued compared to Lab Technicians, who may receive more direct recognition for their hands-on work. Implement a            system to recognize the contributions of Sales Executive.
+-  Introduce Performance-Based Bonuses: Align bonuses and rewards with leadership metrics, such as team performance, innovation, or project success, to provide additional incentives for Sales Executives.
+
+9. Foster Open Communication and Feedback
+-  Conduct Job Satisfaction Surveys: Regularly gather feedback from Sales Executives to identify specific pain points. This can help HR understand the root causes of their dissatisfaction and take             appropriate action.
+-  Facilitate Open Dialogue: Create opportunities for Research Directors to provide input on organizational decisions, share concerns, and suggest improvements. This can make them feel more engaged and        valued.
+
+## Conclusion
+The analysis of the HR dataset reveals important insights regarding employee attrition and job satisfaction within the organization. A high attrition rate was observed among employees aged 25-34, indicating a potential need for enhanced career development opportunities, better compensation packages, and improved work-life balance initiatives. Additionally, the discrepancy in job satisfaction between Lab Technicians and Sales Executive suggests a need to address leadership challenges, workload concerns, and recognition gaps at senior levels.
+By implementing targeted strategies such as leadership development programs, improved employee engagement initiatives, and enhanced support for career progression, the organization can reduce turnover and boost overall job satisfaction. These actions are expected to lead to increased employee retention, better performance, and a healthier organizational culture.
+The findings and recommendations from this analysis serves as a foundation for HR to make data-driven decisions aimed at improving employee experience and driving sustainable growth.
+    
