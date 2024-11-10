@@ -47,6 +47,12 @@ The Power BI dashboard provides the following insights:
 ### 5. Attrition count by age band
 - Age bracket 25-34 has the highest number of attrition,this could be as a result of career advancement, competitive job market, job fit and cultural misalignment,etc
 
+**Dashboard Preview:**
+
+![hr data dashboard](https://github.com/user-attachments/assets/43082766-c11f-444c-afae-4fc72f7415cc)![hr data dashboard 2](https://github.com/user-attachments/assets/46afab6c-90ae-4676-ade1-9f47c1ba1fcc)
+
+
+
 ## 🛠️ Tools Used
  - Power BI: For data extraction,initial exploration,cleaning,visualization and dashboard creation.
 
