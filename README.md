@@ -10,7 +10,7 @@ The main goals of this project are:
 - To gain hands-on experience with Power BI for data visualization.
 
 ## 🗂️ Dataset Information
-The dataset (`HR_Attrition_Dataset.csv`) contains the following columns:
+The dataset (`HR_Attrition_Dataset.csv` contains the following columns:
 - `EmployeeID`: Unique identifier for each employee.
 - `Attrition`: Indicates whether an employee left (Yes/No).
 - `Department`: Department where the employee worked (e.g., Sales, HR, IT).
