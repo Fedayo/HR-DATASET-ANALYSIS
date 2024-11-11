@@ -61,14 +61,14 @@ The Power BI dashboard provides the following insights:
  - Learned to identify key drivers of employee attrition.
 
 ## Recommendations
-1. Enhance Career Development Opportunities
-- Provide clear career progression paths: Outline promotional opportunities and skill requirements for employees in this age group.
-- Offer mentorship programs: Connect younger employees with experienced mentors to help guide their career growth within the organization.
-- Invest in professional development: Encourage participation in training, certifications, and workshops to help employees advance their skills.
+1. Improve Compensation and Benefits
+  - Conduct a market compensation analysis: Ensure salaries and benefits are competitive with industry standards, especially for roles commonly filled by 25-34-year-olds.
+  - Introduce performance-based incentives: Offer bonuses, stock options, or other financial incentives tied to individual and team performance.
 
-2. Improve Compensation and Benefits
- -  Conduct a market compensation analysis: Ensure salaries and benefits are competitive with industry standards, especially for roles commonly filled by 25-34-year-olds.
- -  Introduce performance-based incentives: Offer bonuses, stock options, or other financial incentives tied to individual and team performance.
+2. Enhance Career Development Opportunities
+ - Provide clear career progression paths: Outline promotional opportunities and skill requirements for employees in this age group.
+ - Offer mentorship programs: Connect younger employees with experienced mentors to help guide their career growth within the organization.
+ - Invest in professional development: Encourage participation in training, certifications, and workshops to help employees advance their skills.
 
 3. Focus on Work-Life Balance
  -  Implement flexible work policies: Allow for remote work options, flexible hours, and compressed work weeks to accommodate employees' needs.
