@@ -84,22 +84,18 @@ The Power BI dashboard provides the following insights:
    
 6.  Improve Leadership Support and Development
 -   Provide Leadership Training: Offer targeted leadership and management training programs for Sales Executive to enhance their skills in people management, strategic decision-making, and conflict             resolution.
- -  Encourage Mentorship and Coaching: Establish a mentoring program where senior executives can guide Research Directors, providing support and helping them navigate challenges in their roles.
 
 7. Address Workload and Role Clarity
--  Review Workload and Responsibilities: Sales Executive may be experiencing burnout or dissatisfaction due to heavy workloads or unclear role expectations. Conduct a workload analysis and consider            delegating tasks or hiring additional support staff.
--  Clarify Job Expectations and Objectives: Ensure that Sales Executive have clear performance objectives and understand their roles in the organization's strategic goals. This can help reduce role            ambiguity and improve job satisfaction.
+-  Review Workload and Responsibilities: Employees may be experiencing burnout or dissatisfaction due to heavy workloads or unclear role expectations. Conduct a workload analysis and consider                  delegating tasks or hiring additional support staff.
+-  Clarify Job Expectations and Objectives: Ensure that Employees have clear performance objectives and understand their roles in the organization's strategic goals. This can help reduce role                  ambiguity and improve job satisfaction.
 
-8. Enhance Recognition and Reward Programs
--  Increase Recognition for Leadership Achievements: Sales Executive might feel undervalued compared to Lab Technicians, who may receive more direct recognition for their hands-on work. Implement a            system to recognize the contributions of Sales Executive.
--  Introduce Performance-Based Bonuses: Align bonuses and rewards with leadership metrics, such as team performance, innovation, or project success, to provide additional incentives for Sales Executives.
 
-9. Foster Open Communication and Feedback
--  Conduct Job Satisfaction Surveys: Regularly gather feedback from Sales Executives to identify specific pain points. This can help HR understand the root causes of their dissatisfaction and take             appropriate action.
--  Facilitate Open Dialogue: Create opportunities for Research Directors to provide input on organizational decisions, share concerns, and suggest improvements. This can make them feel more engaged and        valued.
+8. Foster Open Communication and Feedback
+-  Conduct Job Satisfaction Surveys: Regularly gather feedback from Sales Executives to identify specific pain points. This can help to understand the root causes of their dissatisfaction and take             appropriate action.
+
 
 ## Conclusion
 The analysis of the HR dataset reveals important insights regarding employee attrition and job satisfaction within the organization. A high attrition rate was observed among employees aged 25-34, indicating a potential need for enhanced career development opportunities, better compensation packages, and improved work-life balance initiatives. Additionally, the high level of job dissatisfaction between Lab Technicians and Sales Executive suggests a need to address leadership challenges, workload concerns, and recognition gaps at senior levels.
 By implementing targeted strategies such as leadership development programs, improved employee engagement initiatives, and enhanced support for career progression, the organization can reduce turnover and boost overall job satisfaction. These actions are expected to lead to increased employee retention, better performance, and a healthier organizational culture.
-The findings and recommendations from this analysis serves as a foundation for HR to make data-driven decisions aimed at improving employee experience and driving sustainable growth.
+The findings and recommendations from this analysis serves as a foundation for to make data-driven decisions aimed at improving employee experience and driving sustainable growth.
     
